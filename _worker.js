@@ -8,8 +8,8 @@ let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'time.cloudflare.com:8443#优选域名',
-	'cfip.xxxxxxxx.tk:2096#优选域名'
-'cdn.kaiche.tk:2096#优选域名'
+	'cfip.xxxxxxxx.tk:2096#优选域名',
+'cdn.kaiche.tk:2096#优选域名',
 'c.xf.free.hr:2087#优选域名',
 'cf.090227.xyz:443#优选域名',
 'sp.rweek.top:443#优选域名',
